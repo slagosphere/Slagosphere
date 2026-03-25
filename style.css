@@ -112,3 +112,12 @@ audio {
   width: 100%;
   margin-top: 10px;
 }
+
+.cover {
+  width: 100%;
+  margin-top: 20px;
+  border-radius:15px;
+  border: 2px solid gold;
+  box-shadow: 0 0 20px rgba(255, 215, 0 0.5);
+}
+
