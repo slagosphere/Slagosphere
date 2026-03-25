@@ -1,7 +1,9 @@
 JavaScript
 
 /* script.js */
+document.addEventListener("DOMContentLoaded",() => {
 const canvas = document.getElementById("bg");
+  if (!canvas) return;
 const ctx = canvas.getContext("2d");
 
 canvas.width = window.innerWidth;
