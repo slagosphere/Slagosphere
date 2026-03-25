@@ -100,6 +100,14 @@ h2 {
   font-family: 'Playfair Display', serif;
 }
 
+.logo {
+  width: 200px;
+  margin-bottom:20px;
+  border-radius:50%;
+  border: 2px solid gold;
+  box-shadow: 0 0 25px gold;
+}
+
 audio {
   width: 100%;
   margin-top: 10px;
